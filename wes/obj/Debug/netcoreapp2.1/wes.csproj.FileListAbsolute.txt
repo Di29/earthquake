@@ -1,0 +1,3 @@
+C:\Users\admin\source\repos\wes\wes\obj\Debug\netcoreapp2.1\wes.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\wes\wes\obj\Debug\netcoreapp2.1\wes.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\wes\wes\obj\Debug\netcoreapp2.1\wes.AssemblyInfo.cs
